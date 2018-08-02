@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "version": "",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.0"
+  }
+}
